@@ -1,6 +1,6 @@
-### Abrir
 
-#### Conteiner docker
+
+#### Container docker
 ````
     docker run -d -p 80:8000 kalborfon/ladproject:latest 
 ````
